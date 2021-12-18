@@ -1,0 +1,7 @@
+baseURL = "https://jingbow.github.io"
+languageCode = "zh-CN"
+title = "Pangolin"
+theme = "beautifulhugo"
+
+[Params]
+  selfHosted = true
